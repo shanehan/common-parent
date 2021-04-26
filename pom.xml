@@ -26,7 +26,7 @@
         <bce-java-sdk.version>0.10.98</bce-java-sdk.version>
         <commons-fileupload.version>1.3.3</commons-fileupload.version>
         <commons-lang3.version>3.9</commons-lang3.version>
-        <commons-io.version>2.2</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <easyexcel.version>2.1.6</easyexcel.version>
         <ezmorph.version>1.0.6</ezmorph.version>
         <feign-httpclient.version>10.4.0</feign-httpclient.version>
